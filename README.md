@@ -4,6 +4,12 @@ Electronic instrumentation project consisting of a **dual-core embedded firmware
 
 The system allows generating PWM signals from **0.01 Hz up to 120 MHz** and simultaneously measuring frequency, duty cycle, high/low times, and total event count.
 
+## Validated Performance & Experimental Limits
+
+- **Maximum Frequency Measurement:** Verified up to **113 MHz** using an external waveform generator and up to **120 MHz** in internal loopback mode, maintaining a relative error within **< 1%**.
+- **Low Duty Cycle Resolution:** Capable of accurately measuring duty cycles down to **3% at 100 kHz** with a relative error within **< 1%**.
+- **Long Period / Ultra-Low Frequency Capture:** Supports measuring signal periods up to **100 s** (`0.01 Hz`).
+
 ## Key Features
 
 ### Firmware (Raspberry Pi Pico @ 240 MHz)
