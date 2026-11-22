@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fecuencimetro_Visualizador")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fdf8e2e1bfbd392b936ee6f0fcd96a7eed2d33f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fecuencimetro_Visualizador")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fecuencimetro_Visualizador")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

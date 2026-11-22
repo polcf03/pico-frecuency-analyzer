@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Uni\\Assignatures\\IEEIA\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador.csproj": {}
+    "D:\\Uni\\Assignatures\\IEEIA\\pico-frecuency-analyzer\\software\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador.csproj": {}
   },
   "projects": {
-    "D:\\Uni\\Assignatures\\IEEIA\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador.csproj": {
+    "D:\\Uni\\Assignatures\\IEEIA\\pico-frecuency-analyzer\\software\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Uni\\Assignatures\\IEEIA\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador.csproj",
+        "projectUniqueName": "D:\\Uni\\Assignatures\\IEEIA\\pico-frecuency-analyzer\\software\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador.csproj",
         "projectName": "Fecuencimetro_Visualizador",
-        "projectPath": "D:\\Uni\\Assignatures\\IEEIA\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador.csproj",
+        "projectPath": "D:\\Uni\\Assignatures\\IEEIA\\pico-frecuency-analyzer\\software\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador.csproj",
         "packagesPath": "C:\\Users\\polcf\\.nuget\\packages\\",
-        "outputPath": "D:\\Uni\\Assignatures\\IEEIA\\Fecuencimetro_Visualizador\\Fecuencimetro_Visualizador\\obj\\",
+        "outputPath": "D:\\Uni\\Assignatures\\IEEIA\\pico-frecuency-analyzer\\software\\Fecuencimetro_Visualizador\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\polcf\\AppData\\Roaming\\NuGet\\NuGet.Config",
